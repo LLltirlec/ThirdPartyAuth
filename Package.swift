@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/google/GoogleSignIn-iOS", revision: "7.0.0"),
-        .package(url: "https://github.com/VKCOM/VKSDK-iOS", revision: "0.101.0")
+        .package(url: "https://github.com/VKCOM/VKSDK-iOS", revision: "0.105.0")
     ],
     targets: [
         .target(
